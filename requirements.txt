@@ -1,0 +1,10 @@
+# for web server
+flask == 3.0.3
+
+# for MySQL database
+PyMySQL == 1.0.2
+
+# for password hashing and verification in MAC
+cryptography == 3.4.7 
+
+python-dotenv == 1.0.1
